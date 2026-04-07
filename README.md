@@ -42,5 +42,5 @@ Make sure you have the following installed:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/professionaldev527/nextjs-mongodb-full-stack-authentication-system.git](https://github.com/professionaldev527/nextjs-mongodb-full-stack-authentication-system.git)
+   git clone https://github.com/professionaldev527/nextjs-mongodb-full-stack-authentication-system.git
    cd nextjs-mongodb-full-stack-authentication-system 
